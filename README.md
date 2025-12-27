@@ -30,7 +30,7 @@ Menerapkan metode **Least Squares (Kuadrat Terkecil)** untuk memprediksi total p
 **📸 Hasil Visualisasi:**
 > *Garis merah menunjukkan tren prediksi yang membelah data aktual (titik biru).*
 
-![Grafik Regresi](<img width="1618" height="910" alt="Screenshot 2025-12-26 234242" src="https://github.com/user-attachments/assets/e5f3a578-c220-4bd3-b333-9b2a534f5bf9" />)
+<img width="1618" height="910" alt="Screenshot 2025-12-26 234242" src="https://github.com/user-attachments/assets/e5f3a578-c220-4bd3-b333-9b2a534f5bf9" />
 
 ---
 
@@ -53,7 +53,7 @@ Menerapkan **Turunan Numerik (Numerical Differentiation)** menggunakan **Operato
 **📸 Hasil Demonstrasi:**
 > *Gambar kiri adalah input asli, gambar kanan adalah hasil kalkulasi turunan numerik (tepi).*
 
-![Deteksi Tepi](<img width="1633" height="919" alt="Screenshot 2025-12-27 003253" src="https://github.com/user-attachments/assets/3d13cab5-b73e-4580-b57c-32e08a81c014" />)
+<img width="1633" height="919" alt="Screenshot 2025-12-27 003253" src="https://github.com/user-attachments/assets/3d13cab5-b73e-4580-b57c-32e08a81c014" />
 ---
 
 ## 🚀 Cara Menjalankan Program
